@@ -1,5 +1,5 @@
 🏦 Banking System with Transaction History
-📌 Project Overview
+Project Overview
 
 This Banking System is a C++ OOP based project that I developed during my CSE lab course.
 The main goal of this project was to implement all the major Object-Oriented Programming (OOP) concepts in a real-life example like Banking System.
@@ -16,31 +16,32 @@ Viewing transaction history
 
 Saving data using file handling
 
-✨ OOP Features Covered
+
+OOP Features Covered:
 
 This project is a complete demonstration of core OOP concepts:
 
-Encapsulation – Bank data (account number, balance, etc.) is kept private and accessed only through public methods. 🔒
+Encapsulation – Bank data (account number, balance, etc.) is kept private and accessed only through public methods. 
 
 Inheritance – Different account types (e.g., SavingsAccount, CurrentAccount) are inherited from a base BankAccount class. 🏦
 
-Polymorphism – Virtual functions allow function overriding for account-specific behaviors. 🔄
+Polymorphism – Virtual functions allow function overriding for account-specific behaviors. 
 
 Function Overriding – Child classes redefine parent functions.
 
-Constructor Overloading – Multiple constructors are implemented for flexible object creation. 🏗️
+Constructor Overloading – Multiple constructors are implemented for flexible object creation. 
 
-Friend Function – Used to access private data when needed. 👥
+Friend Function – Used to access private data when needed. 
 
-Inline Functions – Small functions like showing account details are declared inline for efficiency. ⚡
+Inline Functions – Small functions like showing account details are declared inline for efficiency. 
 
 Default Arguments – Some functions use default values for parameters.
 
-File Handling – All account and transaction data is stored/retrieved from files. 📂
+File Handling – All account and transaction data is stored/retrieved from files. 
 
-Transaction History – Every deposit/withdrawal is stored in transaction records. 📜
+Transaction History – Every deposit/withdrawal is stored in transaction records. 
 
-Operator Overloading (Extra Feature) – Overloaded operators for comparing balances between accounts. ➕
+Operator Overloading (Extra Feature) – Overloaded operators for comparing balances between accounts. 
 
 Abstraction – Hiding implementation details and exposing only necessary functions.
 
@@ -61,7 +62,7 @@ Concepts: OOP (Encapsulation, Inheritance, Polymorphism, etc.)
 
 Storage: File Handling (text files)
 
-🚀 Features Implemented
+Features Implemented
 
 ✔ Create new account (savings/current)
 ✔ Deposit and withdraw money
